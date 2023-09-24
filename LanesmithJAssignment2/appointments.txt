@@ -1,0 +1,5 @@
+Bob Smith|123 Anywhere St.|Waterloo|ON|H0H 0H0|555-345-1234|555-678-0987|example@test.com|Toyota Corolla|2020|25 Jul. 2023|Loud noise when I apply the brakes~Winshield wipers squeak every time I use them
+Bob Smith|123 Anywhere St.|Waterloo|ON|H0H 0H0|555-345-1234|555-678-0987|example@test.com|Toyota Corolla|2020|25 Jul. 2023|Loud noise when I apply the brakes~Winshield wipers squeak every time I use them
+Bob Smith|123 Anywhere St.|Waterloo|ON|H0H 0H0|555-345-1234|555-678-0987|example@test.com|Toyota Corolla|2020|25 Jul. 2023|Loud noise when I apply the brakes~Winshield wipers squeak every time I use them
+Jude Jacobson|123 Anywhere St.|Waterloo|ON|H0H 0H0|555-345-1234|555-678-0987|example@test.com|Toyota Corolla|2020|25 Jul. 2023|Loud noise when I apply the brakes~Winshield wipers squeak every time I use them
+Bob Smith|123 Anywhere St.|Waterloo|ON|H0H 0H0|555-345-1234|555-678-0987|example@test.com|Toyota Corolla|2020|03 Oct. 2023|Loud noise when I apply the brakes~Winshield wipers squeak every time I use them
